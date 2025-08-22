@@ -32,10 +32,10 @@ const Home = () => {
             exit="hidden"
             className="max-w-sm xl:max-w-xl mx-auto xl:mx-0 mb-10 xl:mb-16"
           >
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptate,
-            exercitationem harum, quia nulla temporibus deleniti libero veniam
-            vero beatae numquam ducimus illum ab similique ipsam tempore fugit
-            quod laudantium debitis.
+            Passionate full-stack developer with expertise in modern web technologies.
+            I create beautiful, responsive applications using React, Next.js, and Node.js.
+            Focused on delivering exceptional user experiences through clean code
+            and innovative solutions.
           </motion.p>
 
           {/* btn */}

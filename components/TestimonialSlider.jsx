@@ -10,24 +10,24 @@ import "swiper/css/pagination";
 const testimonialData = [
   {
     image: "/t-avt-1.png",
-    name: "Anne Smith",
-    position: "Customer",
+    name: "Sarah Johnson",
+    position: "CEO, TechStart",
     message:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum expedita odit beatae, cupiditate saepe quam officia aut placeat quas neque!",
+      "Outstanding work! The web application exceeded our expectations with its clean design and flawless functionality. Highly recommend for any serious project.",
   },
   {
     image: "/t-avt-2.png",
-    name: "Jane Doe",
-    position: "Customer",
+    name: "Michael Chen",
+    position: "Product Manager",
     message:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum expedita odit beatae, cupiditate saepe quam officia aut placeat quas neque!",
+      "Professional, responsive, and delivered on time. The attention to detail and modern UI/UX approach made our product stand out in the market.",
   },
   {
     image: "/t-avt-3.png",
-    name: "Jhon Doe",
-    position: "Customer",
+    name: "Emily Rodriguez",
+    position: "Marketing Director",
     message:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum expedita odit beatae, cupiditate saepe quam officia aut placeat quas neque!",
+      "Incredible developer who truly understands user experience. Our website conversion rates improved by 40% after the redesign. Amazing results!",
   },
 ];
 
@@ -73,7 +73,7 @@ const TestimonialSlider = () => {
               <div className="mb-4">
                 <FaQuoteLeft
                   className="text-4xl xl:text-6xl text-white/20 mx-auto md:mx-0"
-                  aria-aria-hidden
+                  aria-hidden="true"
                 />
               </div>
 
